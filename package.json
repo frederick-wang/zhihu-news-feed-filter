@@ -1,0 +1,23 @@
+{
+  "name": "zhihu-news-feed-filter",
+  "version": "0.2.0",
+  "description": "过滤知乎信息流，隐藏不喜欢的内容。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/frederick-wang/zhihu-news-feed-filter.git"
+  },
+  "keywords": [
+    "zhihu",
+    "filter"
+  ],
+  "author": "Zhaoji Wang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/frederick-wang/zhihu-news-feed-filter/issues"
+  },
+  "homepage": "https://github.com/frederick-wang/zhihu-news-feed-filter#readme"
+}
